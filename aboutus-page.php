@@ -22,6 +22,5 @@
         <p>We as a debt recovery agency analyze the situation and we recommend most suitable strategy for collections. Unlike other Debt Recovery Agencies we act on your behalf in the manner you wish, either using a discreet recovery approach, because you do not want to jeopardize a long standing business relationship by a single debt, or a more aggressive program. Whichever way you want to handle debt collection, we are there for you.</p>
       </div>
     </div>
-  </div>
-  <!-- ======================================================================= -->  
+  </div> 
 <?php include 'footer.php';?>
