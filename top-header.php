@@ -10,4 +10,4 @@
     </div>    
 </div>
 <br>
-<div class="container">
+<div class="container" style="background-color:#fff">
