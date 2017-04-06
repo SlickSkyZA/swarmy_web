@@ -1,12 +1,10 @@
-    
-			<div class="">
-				<div class="text-center bn">
-					<h3 class="">SWARMY LIMITED</h3>
-					<p class="" style="font-size:20px; background-color:rgba(0, 0, 0, 0.07); border-radius:14px;">“We increase profit of your business by recovering bad debts on your behalf”</p>
-				</div>				
-			</div>
-		
-
+<div class="row">
+  <div class="row">
+  	<div class="text-center bn">
+  		<h3 class="">SWARMY LIMITED</h3>
+  		<p class="" style="font-size:20px; background-color:rgba(0, 0, 0, 0.07); border-radius:14px;">“We increase profit of your business by recovering bad debts on your behalf”</p>
+  	</div>				
+  </div>
   <div class="col-md-8">
     <div style="border-top: 5px solid #fac249; border-radius:7px;">
       <header><h3 class="title text-center">About US</h3></header>                
@@ -29,3 +27,4 @@
     </div>
   </div>
 </div>
+

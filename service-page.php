@@ -1,21 +1,6 @@
 <?php include 'header.php';?>
-<body>
-  <div class="container bg">
-    <div class="col-md-10">
-      <img width="100" src="logo.png" style="margin-top: -10px;" />
-      <span class="brand">SWARMY LIMITED</span>
-    </div>
-    <div class="col-md-2 pull-right">
-      <i class="social fa fa-facebook fa-2x" style="color: rgb(100, 100, 246);"></i>
-      <i class="social fa fa-google-plus fa-2x" style="color: rgb(252, 49, 49);"></i>
-      <i class="social fa fa-twitter fa-2x" style="color: rgb(47, 188, 255);"></i>
-    </div>    
-  </div> 
-
-  <br>
-
-  <div class="container">
-    <?php include 'navigation.php';?>
+<?php include 'top-header.php';?>
+<?php include 'navigation.php';?>
     <div class="col-md-12">
      <div class="">
         <div class="text-center title">
@@ -28,7 +13,7 @@
     <div class="container">
       
       <div class="col-md-6">
-        <img src="swa.jpeg" class="img-responsive">
+        <img src="images/swa.jpeg" class="img-responsive">
         <p class="bn">“We increase profit of your business by recovering bad debts on your behalf”</p>
       </div>
       

@@ -1,24 +1,7 @@
 <?php include 'header.php';?>
-<body>
-  <div class="container bg">
-    <div class="col-md-10">
-      <img width="100" src="logo.png" style="margin-top: -10px;" />
-      <span class="brand">SWARMY LIMITED</span>
-    </div>
-    <div class="col-md-2 pull-right">
-      <i class="social fa fa-facebook fa-2x" style="color: rgb(100, 100, 246);"></i>
-      <i class="social fa fa-google-plus fa-2x" style="color: rgb(252, 49, 49);"></i>
-      <i class="social fa fa-twitter fa-2x" style="color: rgb(47, 188, 255);"></i>
-    </div>    
-  </div> 
-
-  <br>
-
-  <div class="container">
-    <?php include 'navigation.php';?>
-    <div class="col-md-12">
-     
-    </div>
+<?php include 'top-header.php';?>
+<?php include 'navigation.php';?>
+  <div class="col-md-12"></div>
     <!-- ======================================================================= --> 
       <section id="contact">
         <div class="container">           
@@ -55,6 +38,7 @@
                     <p><strong>TEL. No, :</strong> 0710411014, 0722565601</p>
                     <p><strong>Email:</strong> swarmylimited@gmail.com</p>
                     <br />
+
                 </div>
               
             </div>
@@ -63,3 +47,5 @@
     <!-- ======================================================================= -->  
     
     <?php include 'footer.php';?>
+
+<!--     <script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:440px;width:700px;'><div id='gmap_canvas' style='height:440px;width:700px;'></div><div><small><a href="http://embedgooglemaps.com">embed google maps</a></small></div><div><small><a href="https://ultimatewebtraffic.com/">buy some targeted website traffic</a></small></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:16,center:new google.maps.LatLng(-1.2863534,36.813286500000004),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(-1.2863534,36.813286500000004)});infowindow = new google.maps.InfoWindow({content:'<strong>Swarmy Limited</strong><br>Utumishi Co-op House Mamlaka Rd. Nairobi. <br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script> -->
