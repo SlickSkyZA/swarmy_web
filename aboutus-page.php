@@ -1,26 +1,29 @@
 <?php include 'header.php';?>
 <?php include 'top-header.php';?>
 <?php include 'navigation.php';?>
-    <div class="col-md-12">
-     <div class="">
-        <div class="text-center title">
-          <p class="" style="font-size:30px; background-color:rgba(0, 0, 0, 0.07); border-radius:14px;">About Us</p>
-        </div>        
-      </div>
+<div class="col-md-12">
+  <div class="">
+    <div class="text-center title">
+      <p class="about-header">About Us</p>
+    </div>        
+  </div>
+</div>
+<!-- ======================================================================= --> 
+<div class="row">
+  <div class="container">
+    <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
+      <img src="images/sc14.jpeg" class="img-responsive img-rounded"/>
+      <p class="bn text-center pd10">“We increase profit of your business by recovering bad debts on your behalf”</p> 
+    </div>    
+    <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" >      
+      <p>Swarmy Limited is a registered private limited company whose core mandate is collection of current, doubtful and bad debts. It was incorporated in year 2014 and it has grown in the industry of debt recovery for the last three years. We have many repeat clients whom we have worked with them since the start of the business . This demonstrates the satisfaction that is guaranteed by our professional employees.
+      </p>
+      <p>
+      We maximize the recovery of debts in a way that salvages support and even strengthen our customer relationship through consistent management approach and highly professional and discreet conduct.<br>
+      At Swarmy Limited everything is designed to meet your timetable and priorities. We protect the integrity of both you and your customers through secure and confidential dealings. <br>
+      The company would like use the same methodology to offer the above underlined services to your Institution.</p>
     </div>
-    <!-- ======================================================================= --> 
-      <div class="about">
-    <div class="container">
-      <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
-        <img src="images/sc14.jpeg" class="img-responsive"/>
-        <p>Our emphasis is on building a strong professional and long term relationship with our clients. We are dedicated to the needs of our clients and assign an account manager to understand your port follies. As a genuine business partner our aim is to maximize the recovery of your debt in a way that salvages, support and even strengthens our customers’ relationship through a consistent management approach and highly professional and discreet conduct.</p> 
-      </div>
-      
-      <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" >
-        
-        <p>Debt Recovery process has become nightmare for many small businesses and large corporate. Swarmy Limited ensures quick recovery of your money owed and we make sure it is not resting in someone else's bank. Even though your bad debts are insured or not, SwarmyLimited has network of debt collectors who can take care of your debt collection. Our range of debt collection services and debt recovery services can solve your bad debt problems which will help you increase your profits. Our debt recovery services uses our expertise and state-of-the-art debt collection methodologies and experienced debt collectors to maximize the collections.</p>
-        <p>We as a debt recovery agency analyze the situation and we recommend most suitable strategy for collections. Unlike other Debt Recovery Agencies we act on your behalf in the manner you wish, either using a discreet recovery approach, because you do not want to jeopardize a long standing business relationship by a single debt, or a more aggressive program. Whichever way you want to handle debt collection, we are there for you.</p>
-      </div>
-    </div>
-  </div> 
+  </div>
+  <?php include 'includes/team.php'; ?>  
+</div> 
 <?php include 'footer.php';?>

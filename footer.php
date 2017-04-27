@@ -10,22 +10,17 @@
     </div>        
     <div class="col-md-4 contact-info">
         <h2 class="footer-title">Contact Info</h2>
-        <div class="single">
-            <i class="fa fa-map-marker"></i>
-            <p>Utumishi Co-op House, Mamlaka Rd off Nyerere Rd Fifth Floor,<br> 
+        <div class="single">            
+            <p><i class="fa fa-map-marker"></i> Utumishi Co-op House, Mamlaka Rd off Nyerere Rd Fifth Floor,<br> 
             P.O. Box 433-020518 Nairobi</p>
         </div>
         <div class="single">
-            <i class="fa fa-phone"></i>
-            <p>0710411014, 0722565601</p>
+            <p><i class="fa fa-phone"></i> 0710411014, 0722565601</p>
         </div>
-
         <div class="single">
-            <i class="fa fa-envelope"></i>
-            <p>swarmylimited@gmail.com</p>
+            <p><i class="fa fa-envelope"></i> swarmylimited@gmail.com</p>
         </div>
-    </div>
-        
+    </div>        
     <div class="col-md-3 left-border">
         <div class="navigation">
             <h2 class="footer-title">Navigation</h2>
@@ -38,9 +33,7 @@
             </ul>
         </div>
     </div>
-
-    <div class="clearfix"></div>
-    
+    <div class="clearfix"></div>    
     <div class="row" style="margin-top:20px; margin-bottom:0;">
         <div class="col-lg-4 text-center">
             <p>Copyright &copy; SWARMY LIMITED 2017</p>
@@ -53,11 +46,9 @@
         </div>
     </div>
 </div>
-
 <!-- jQuery -->
-<script src="js/jquery.js"></script>
-
+<script src="assets/js/jquery.js"></script>
 <!-- Bootstrap Core JavaScript -->
-<script src="js/bootstrap.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
 </body>
 </html>
