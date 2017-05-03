@@ -46,6 +46,7 @@
         </div>
     </div>
 </div>
+<?php include 'includes/analyticstracking.php'; ?>
 <!-- jQuery -->
 <script src="assets/js/jquery.js"></script>
 <!-- Bootstrap Core JavaScript -->

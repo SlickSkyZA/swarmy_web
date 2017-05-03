@@ -5,7 +5,6 @@
       </p>
   	</div>				
   </div>
-
   <div class="col-md-8">
     <div class="home-about">
       <header><h3 class="title text-center">About US</h3></header>                
@@ -23,7 +22,7 @@
   <div class="col-md-12">
   	<div class="why-us">
       <header><h3 class="title text-center">Why Debt Recovery Services Outsourcing to SwarmyLimited ?</h3></header>                
-      <p class="pd10">Recovery calls rely on repletion to motivate the debtor to pay. For successful collection of calls, necessary skills are very important like communication and understanding of position of debtors. We as a recovery agency make sure of collecting the pending accounts of receivables and that's what matters. How to collect the debt is the matter of law and rules. To establish a rapport with debtor and work solutions to understand the collection calls. This may take the form of imbruement plan or a reduction on the principal amount that is hold by you. </p>         
+      <p class="pd10">Recovery calls rely on repletion to motivate the debtor to pay. For successful collection of calls, necessary skills are very important like communication and understanding of position of debtors. We as a recovery agency make sure of collecting the pending accounts of receivables and that's what matters. How to collect the debt is the matter of law and rules. To establish a rapport with debtor and work solutions to understand the collection calls. This may take the form of imbruement plan or a reduction on the principal amount that is hold by you. </p>  
     </div>
   </div>
   <?php include 'includes/ourclients.php'; ?>

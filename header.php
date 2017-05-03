@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Swarmy Limited- Is a private limited Debt collection company in Nairobi Kenya, mandated to collection of current, doubtful and bad debts">
+    <meta name="author" content="Swarmy - Debt collection company in Nairobi Kenya">
 
     <title>Swarmy - Debt collection company in Nairobi Kenya</title>
     <!-- Bootstrap Core CSS -->
